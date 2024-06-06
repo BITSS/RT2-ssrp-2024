@@ -524,7 +524,7 @@ Consult the <br> supporting <br>
 background-image: url(Images/paper-title.png)
 background-size: contain
 count:true
-# First Insights Comming Out of the SSRP
+# First Insights Coming Out of the SSRP
 
 
 ---
